@@ -1,2 +1,3 @@
 # NBA-images
-NBA Images used in NBA-Dashboard
+
+Images used in NBA-Dashboard
